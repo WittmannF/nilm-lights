@@ -7,7 +7,7 @@ dataport-light-2016-2.csv
 !id624_circ4_all.csv
 !id624_circ4_use_datevsminute.csv
 !id624_circ4_onlylights_datevsminute.csv
-
+./uk-dale/ukdale/*.*
 
 # Compiled source #
 ###################
