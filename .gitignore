@@ -4,6 +4,10 @@ dataport-metadata-dictionary.pdf
 dataport-metadata.csv
 dataport-light-2016-2.csv
 *.csv
+!id624_circ4_all.csv
+!id624_circ4_use_datevsminute.csv
+!id624_circ4_onlylights_datevsminute.csv
+
 
 # Compiled source #
 ###################
